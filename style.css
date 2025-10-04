@@ -1,0 +1,9 @@
+.oswald{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  
+}
+
+.welcome{
+background-image: url(handshake.png);
+}
